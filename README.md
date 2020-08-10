@@ -9,7 +9,7 @@ $ apt git clone https://github.com/Mark-Gabo/coffe-pos.git
 $ python coffe-pos.py
 
 
-# Screenshot_20200810_223846_com.termux.jpg
+# Sc
 
 Enjoy..
 
