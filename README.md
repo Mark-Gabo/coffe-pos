@@ -9,7 +9,7 @@ $ apt git clone https://github.com/Mark-Gabo/coffe-pos.git
 $ python coffe-pos.py
 
 
-# Sc
+
 
 Enjoy..
 
